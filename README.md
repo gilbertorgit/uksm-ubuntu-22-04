@@ -142,9 +142,5 @@ Linux jerry-kvm 5.15.99-uksm #1 SMP Thu Jun 15 18:22:50 UTC 2023 x86_64 x86_64 x
 GRUB_CMDLINE_LINUX="mitigations=off default_hugepagesz=1G hugepagesz=1G hugepages=64G"
 ```
 
-```
-GRUB_CMDLINE_LINUX="mitigations=off"
-```
-
 
 
